@@ -1,0 +1,2 @@
+What is the difference between merge and rebase?
+Merge combines changes and rebase moves change
