@@ -1,2 +1,0 @@
-What is a remote repository?
-It is a history of my code hosted on the internet
