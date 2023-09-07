@@ -1,2 +1,4 @@
 What is the difference between merge and rebase?
 Merge combines changes and rebase moves the changes
+What is a remote repository?
+It is a history of my code hosted on the internet
